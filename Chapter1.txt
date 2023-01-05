@@ -2,3 +2,8 @@ Data Structures
 
 This is some random text.
 This is some another text.
+
+Day 2
+
+Day 2 random text.
+Day 2 another random text.
